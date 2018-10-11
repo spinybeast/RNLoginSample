@@ -13,7 +13,7 @@ export function * login (api, { username, password }) {
 
   if(response.ok) {
     yield put(LoginActions.loginSuccess(response.data));
-    NavigationService.navigate('DashboardScreen',{});
+    NavigationService.navigate('Dashboard');
 
   } else {
     Alert.alert('Ошибка', 'Пароль введен неверно',[

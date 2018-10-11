@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "cell": "97735068",
+      "dob": {
+        "age": 72,
+        "date": "1945-11-22T09:18:15Z"
+      },
+      "email": "ani.mazur@example.com",
+      "gender": "female",
+      "id": {
+        "name": "FN",
+        "value": "22114546988"
+      },
+      "location": {
+        "city": "ferkingstad",
+        "coordinates": {
+          "latitude": "52.376514",
+          "longitude": "4.908542"
+        },
+        "postcode": "1371",
+        "state": "vest-agder",
+        "street": "enoks vei 307",
+        "timezone": {
+          "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk",
+          "offset": "+9:00"
+        }
+      },
+      "login": {
+        "md5": "e2b9c47951d56b57d453065948af5213",
+        "password": "vikings1",
+        "salt": "siQOFrIg",
+        "sha1": "b4565d768879643028080edc4ba63efac1b8e572",
+        "sha256": "26627333d9d5736b606aee527a5c0ce406b4b44834bf56591702a7ce7a422347",
+        "username": "silverfrog102",
+        "uuid": "18ae522e-442b-4a84-81fb-50030e828a19"
+      },
+      "name": {
+        "first": "ani",
+        "last": "mazur",
+        "title": "ms"
+      },
+      "nat": "NO",
+      "phone": "85156059",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+      },
+      "registered": {
+        "age": 13,
+        "date": "2005-06-22T01:32:33Z"
+      }
+    },
+    {
+      "cell": "744-908-7043",
+      "dob": {
+        "age": 39,
+        "date": "1979-02-02T11:06:08Z"
+      },
+      "email": "hailey.chu@example.com",
+      "gender": "female",
+      "id": {
+        "name": "PP",
+        "value": "1234567"
+      },
+      "location": {
+        "city": "cumberland",
+        "coordinates": {
+          "latitude": "52.380210",
+          "longitude": "4.885354"
+        },
+        "postcode": "K8B 9T4",
+        "state": "québec",
+        "street": "492 peel st",
+        "timezone": {
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent",
+          "offset": "+5:00"
+        }
+      },
+      "login": {
+        "md5": "a5dfd54274f9ecceb2d1ffb93e5b6ae3",
+        "password": "lesbian",
+        "salt": "xDCVFAzh",
+        "sha1": "fef4524b98e26c75c496e90a5e0d79e230d32eb0",
+        "sha256": "019a22af37fa933bbba66734a6b8375ff6009485feab111d13d867c20a76c842",
+        "username": "angrymeercat577",
+        "uuid": "73ca0b3c-0677-4c86-a180-98a6132c7cbb"
+      },
+      "name": {
+        "first": "hailey",
+        "last": "chu",
+        "title": "ms"
+      },
+      "nat": "CA",
+      "phone": "217-487-7032",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/7.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+      },
+      "registered": {
+        "age": 10,
+        "date": "2008-06-18T02:37:12Z"
+      }
+    },
+    {
+      "cell": "0751-252-206",
+      "dob": {
+        "age": 74,
+        "date": "1944-08-26T00:56:37Z"
+      },
+      "email": "kent.shaw@example.com",
+      "gender": "male",
+      "id": {
+        "name": "NINO",
+        "value": "SA 98 87 15 M"
+      },
+      "location": {
+        "city": "nottingham",
+        "coordinates": {
+          "latitude": "52.374525",
+          "longitude": "4.827375"
+        },
+        "postcode": "DR56 6WL",
+        "state": "cambridgeshire",
+        "street": "2755 highfield road",
+        "timezone": {
+          "description": "Atlantic Time (Canada), Caracas, La Paz",
+          "offset": "-4:00"
+        }
+      },
+      "login": {
+        "md5": "c29896cf193ab45fcbcdfebe2fc847b0",
+        "password": "abnormal",
+        "salt": "wYN3xuVo",
+        "sha1": "56f6a7932105df4e5f5d86a4e4bb9abd5b391e7d",
+        "sha256": "bd0851df30ca63ffdfbafa64e4a1507971a39d0834921dadc949989d9bc0bbd2",
+        "username": "orangekoala998",
+        "uuid": "9d444912-5dad-455c-b197-f010b6b1091e"
+      },
+      "name": {
+        "first": "kent",
+        "last": "shaw",
+        "title": "mr"
+      },
+      "nat": "GB",
+      "phone": "017683 77895",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+      },
+      "registered": {
+        "age": 15,
+        "date": "2003-04-06T01:51:06Z"
+      }
+    }
+  ]
+}
